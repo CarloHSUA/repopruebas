@@ -1,0 +1,7 @@
+git brach 'nombre' -> crear rama 
+git checkout 'nombre' -> cambia, -b
+git commit -m 'comentario'
+git push
+git pull
+git fetch
+
