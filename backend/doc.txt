@@ -1,7 +1,9 @@
 git brach 'nombre' -> crear rama 
+git branch -d 'nombre' -> borrar rama
 git checkout 'nombre' -> cambia, -b
 git commit -m 'comentario'
 git push
+git push origin :'nombre rama' -> borra la rama en remoto
 git pull
 git fetch
 
